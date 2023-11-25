@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm André, frontend developer 👨‍💻️ at [Finnet](https://finnet.com.br).
+I'm André, frontend developer at [Zup Innovation](https://www.zupinnovation.com/) 👨‍💻️.
 
 JavaScript is my main language. I've been creating apps for the last three years. My focus is React and React Native and in the last few years I started fiddling with, Electron and Bash scripts (but also Product Management, Product Growth, UX/UI...).
 
